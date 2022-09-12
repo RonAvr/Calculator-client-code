@@ -1,0 +1,18 @@
+.buttonBox {
+    padding-bottom: 20px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-gap: 10px;
+    justify-content: center;
+    }
+  
+  .div{
+    display: flex;
+    justify-content: center;
+    min-height: 110px;
+    flex-direction: column;
+    align-items: center;
+  }
+  
