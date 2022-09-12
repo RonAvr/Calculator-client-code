@@ -8,7 +8,7 @@ and 'Z' as a close parentheses - ')'
 <p align="center">
   <img src="https://github.com/RonAvr/Calculator-client-code/blob/main/src/demo_pictures/calculator-main.JPG" width="40%" alt="Main-screen"/>
 </p>
-https://github.com/RonAvr/Calculator-client-code
+
 <h3>Showing result:</h3>
 <p align="center">
   <img src="https://github.com/RonAvr/Calculator-client-code/blob/main/src/demo_pictures/calculator-result.JPG" width="40%" alt="Showing result"/>
